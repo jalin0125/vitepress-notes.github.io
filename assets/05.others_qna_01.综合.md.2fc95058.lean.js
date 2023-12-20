@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a as t}from"./app.c4f3a98b.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"05.others/qna/01.综合.md"}'),r={name:"05.others/qna/01.综合.md"},n=t("",5),s=[n];function c(l,d,i,_,p,h){return o(),a("div",null,s)}const u=e(r,[["render",c]]);export{f as __pageData,u as default};
